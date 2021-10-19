@@ -3,11 +3,11 @@
   <title>MKM</title>
   
   <subtitle>欢迎光临！</subtitle>
-  <link href="https://github.com/939108435/939108435.github.io.git/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://github.com/939108435/939108435.github.io.git/"/>
+  <link href="http://example.com/"/>
   <updated>2021-10-18T08:25:55.458Z</updated>
-  <id>https://github.com/939108435/939108435.github.io.git/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>最后乐章</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/939108435/939108435.github.io.git/2021/10/18/hello-world/"/>
-    <id>https://github.com/939108435/939108435.github.io.git/2021/10/18/hello-world/</id>
+    <link href="http://example.com/2021/10/18/hello-world/"/>
+    <id>http://example.com/2021/10/18/hello-world/</id>
     <published>2021-10-18T08:25:55.458Z</published>
     <updated>2021-10-18T08:25:55.458Z</updated>
     
