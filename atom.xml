@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-18T08:25:55.458Z</updated>
+  <updated>2021-10-21T15:27:33.187Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初识课题</title>
+    <link href="http://example.com/2021/10/21/20211021/"/>
+    <id>http://example.com/2021/10/21/20211021/</id>
+    <published>2021-10-21T14:00:16.227Z</published>
+    <updated>2021-10-21T15:27:33.187Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2021年10月21日"><a href="#2021年10月21日" class="headerlink" title="2021年10月21日"></a>2021年10月21日</h2><h3 id="氢能介绍："><a href="#氢能介绍：" class="headerlink" title="氢能介绍："></a>氢能介绍：</h3><p>　　<font size=2>随着氢燃料电池的发展，氢能源被认为是连接化石燃料和可再生能源的重要桥梁。氢能具有储量丰富、来源广泛、能量密度高、可循环利用、温室气体及污染物零排放等特点，是公认的清洁能源，有助于解决能源危机、环境污染及全球变暖等问题。</font></p><h3 id="车载储氢技术："><a href="#车载储氢技术：" class="headerlink" title="车载储氢技术："></a>车载储氢技术：</h3><p>　　<font size=2>基于氢燃料电池车必需满足高效、安全、低成本等要求，车载储氢技术的改进是氢燃料电池车发展的重中之中。衡量储氢技术的性能参数有<font color=pink size=3>体积储氢密度</font>、<font color=pink size=3>质量储氢密度</font>、<font color=pink size=3>操作温度</font>、充放氢速率、充放氢的可逆性、循环使用寿命及安全性等。</font></p><p>　　<font size=2>车载储氢技术主要包括高压气态储氢、低温液态储氢、高压低温液态储氢、金属氢化物储氢及有机液体储氢等。</font></p><h4 id="高压气态储氢："><a href="#高压气态储氢：" class="headerlink" title="高压气态储氢："></a>高压气态储氢：</h4><p>　　<font size=2>增加内压、减小罐体质量、提高储氢容量。主要分为纯钢制金属瓶（I型）、钢制内胆纤维缠绕瓶（II型）、铝内胆纤维缠绕瓶（III型）及塑料内胆纤维缠绕瓶（IV型）4个类型。<br>  <del>I型、II型储氢密度低、氢脆问题严重，难以满足车载储氢密度要求</del>；而III型、IV型瓶<font color=pink size=3>由内胆、碳纤维强化树脂层及玻璃纤维强化树脂层组成</font>，明显减少了气瓶质量，提高了单位质量储氢密度。</font></p><p>　　<font size=2>III型瓶主要有35 MPa、70 MPa两种。2010年，浙江大学成功研制70MPa轻质铝内胆纤维缠绕储氢瓶，解决了高抗疲劳性能的缠绕线形匹配、超薄（0.5 mm）铝内胆成型等关键技术，其单位质量储氢密度达5.7%，实现了铝内胆纤维缠绕储氢瓶的轻量化。</font></p><p>　　<font size=2>IV型瓶是轻质高压储氢容器的另一个发展方向，<del>美国Quantum公司、Hexagon Lincoln公司、通用汽车公司、丰田汽车公司等国外多家知名企业，已成功研制多种规格的纤维全缠绕高压储氢气瓶，其高压储氢瓶设计制造技术已处于世界领先水平。</del></font></p><p>　　<font size=2><del>丰田汽车Mirai</del>的高压储气瓶即采用IV型瓶，其由 3层结构组成：内层为高密度聚合物，中层为耐压的碳纤维缠绕层，表层则是保护气瓶和碳纤维树脂表面的玻璃纤维强化树脂层。IV型瓶的使用压力为70MPa，质量储存密度为 5.7 %。</font></p><p>　　　　　　　　<img src="/img/2021102101.png"></p><p>　　<font size=2>高压气态储氢以气瓶为储存容器，其优点是成本低、能耗少，可以通过减压阀调节氢气释放速度，充气、放气速度快，动态响应好，能在瞬间开关氢气，满足氢燃料电池车车用要求。同时，其工作温度范围较宽，可在常温和零下几十度的低温环境下正常工作。高压气态储氢是目前较为成熟的车载储氢技术，但其体积储氢密度还很小，未达到美国能源部制定的发展目标。今后，高压气态储氢还需向着轻量化、高压化、低成本、质量稳定的方向发展。</font></p><p>　　<font size=2>目前各种储氢技术均已在车载中应用，但是中国的技术水平与国外还存在一定的差距：①<del>国外乘用车已经开始使用质量更轻、成本更低、质量储氢密度更高的 IV 型瓶，</del>而中国 IV 型瓶还处于研发阶段，成熟产品只有 35 MPa 和 70 MPa 的 III 型瓶（表 3），其中70 MPa 的 III 型瓶在乘用车样车上应用。②中国制造的 III 型瓶的主要原材料为碳纤维，由于研发起步晚、原材料性能差等原因，国产碳纤维还不能满足车用储氢瓶的要求，主要依赖进口。</font></p><p><img src="/img/2021102102.png"></p><p>　　<font size=2>车载储氢技术仍存在不足，如质量储氢密度低、成本高等问题，尚未完全达到DOE 对车载储氢系统提出的要求。</p><h4 id="参考文献：-1-张志芸-张国强-刘艳秋-康启平-车载储氢技术研究现状及发展方向-J-油气储运-2018-37-11-1207-1212"><a href="#参考文献：-1-张志芸-张国强-刘艳秋-康启平-车载储氢技术研究现状及发展方向-J-油气储运-2018-37-11-1207-1212" class="headerlink" title="参考文献：[1]张志芸,张国强,刘艳秋,康启平.车载储氢技术研究现状及发展方向[J].油气储运,2018,37(11):1207-1212."></a>参考文献：<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=YQCY201811003&uniplatform=NZKPT&v=WvUXSU8XcNZ%25mmd2B0ZJPLejSsWhraG3Mm9HIzzWG5L4DsxZC%25mmd2BVkFKeQw0%25mmd2BVm6RbLUGVX">[1]张志芸,张国强,刘艳秋,康启平.车载储氢技术研究现状及发展方向[J].油气储运,2018,37(11):1207-1212.</a></h4><hr><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2021年10月21日&quot;&gt;&lt;a href=&quot;#2021年10月21日&quot; class=&quot;headerlink&quot; title=&quot;2021年10月21日&quot;&gt;&lt;/a&gt;2021年10月21日&lt;/h2&gt;&lt;h3 id=&quot;氢能介绍：&quot;&gt;&lt;a href=&quot;#氢能介绍：&quot; class</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
