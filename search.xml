@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/10/18/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>IV储氢瓶了解</title>
+    <url>/2021/10/26/20211026/</url>
+    <content><![CDATA[<p><font color=purple>紫</font>  为文本补充更正内容</p>
+<h4 id="70MPa储氢瓶存在的问题："><a href="#70MPa储氢瓶存在的问题：" class="headerlink" title="70MPa储氢瓶存在的问题："></a>70MPa储氢瓶存在的问题：</h4><p>①法规标准不完善，国内法规限制使用IV型储氢瓶，国内企业投入研发少。<font color=purple>T/CATSI 02 007-2020《车用压缩氢气塑料内胆碳纤维全缠绕气瓶》</font><br>②关键碳纤维全球仅一家能提供（日本东丽），价格高昂。<br>③70MPa市场需求低迷。<br>④加氢配套不足，装车后难以加氢。</p>
+<h4 id="IV型瓶优缺点："><a href="#IV型瓶优缺点：" class="headerlink" title="IV型瓶优缺点："></a>IV型瓶优缺点：</h4><p>①采用塑料材料，重量轻、成本低、储氢密度大。<br>②对温度敏感，如控制不好温度，对整车安全影响大。</p>
+<h4 id="斯林达III型与IV型对比："><a href="#斯林达III型与IV型对比：" class="headerlink" title="斯林达III型与IV型对比："></a>斯林达III型与IV型对比：</h4><p><img src="https://img01.mybjx.net/news/UploadFile/202104/6375391100034443336033344.jpg"></p>
 ]]></content>
+      <tags>
+        <tag>IV型储氢瓶</tag>
+      </tags>
   </entry>
   <entry>
     <title>初识课题</title>
@@ -35,6 +29,7 @@
 <p>　　<font size=2>车载储氢技术仍存在不足，如质量储氢密度低、成本高等问题，尚未完全达到DOE 对车载储氢系统提出的要求。</font></p>
 <h4 id="参考文献：-1-张志芸-张国强-刘艳秋-康启平-车载储氢技术研究现状及发展方向-J-油气储运-2018-37-11-1207-1212"><a href="#参考文献：-1-张志芸-张国强-刘艳秋-康启平-车载储氢技术研究现状及发展方向-J-油气储运-2018-37-11-1207-1212" class="headerlink" title="参考文献：[1]张志芸,张国强,刘艳秋,康启平.车载储氢技术研究现状及发展方向[J].油气储运,2018,37(11):1207-1212."></a>参考文献：<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=YQCY201811003&uniplatform=NZKPT&v=WvUXSU8XcNZ%25mmd2B0ZJPLejSsWhraG3Mm9HIzzWG5L4DsxZC%25mmd2BVkFKeQw0%25mmd2BVm6RbLUGVX">[1]张志芸,张国强,刘艳秋,康启平.车载储氢技术研究现状及发展方向[J].油气储运,2018,37(11):1207-1212.</a></h4><hr>
 <hr>
+<hr>
 <h2 id="2021年10月22日"><a href="#2021年10月22日" class="headerlink" title="2021年10月22日"></a>2021年10月22日</h2><p>　　<font size=2>Ⅳ型储氢气瓶研发所面临的关键技术难点，包括内胆原材料选型及成型工艺、密封结构设计、树脂改性研制、轻量化设计与<font color=pink size=3>纤维缠绕。</font>轻量化、高压力、高储氢质量比和长寿命是车载储氢气瓶的特点。<br>  储氢系统的轻量化既是成本的体现，也是高压储氢商业化道路上不可逾越的技术瓶颈。Ⅳ型储氢气瓶因其内胆为塑料，质量相对较小，具有轻量化的潜力。</font></p>
 <p>　　<font size=2>Ⅲ型瓶储氢密度一般为5%，且进一步提升存在困难。而塑料内胆的全复合材料气瓶( Ⅳ型瓶) ，采用高分子材料做内胆，碳纤维复合材料缠绕作为承力层，储氢质量比可达 6% 以上，最高能达到 7% 。相较于Ⅲ型瓶，IV型瓶不易疲劳失效（金属疲劳），疲劳寿命更长。</font></p>
 <p>　　<font size=2>Ⅳ型碳纤维全缠绕储氢气瓶的内胆主要起到密封氢气的作用，<font color=pink size=3>复合材料层主要起到承载压力的作用</font>。复合材料层一般分为两层，<font color=pink size=3>内层为碳纤维缠绕层</font>，一般是由碳纤维和环氧树脂构成; 外层为玻璃纤维保护层，一般是由玻璃纤维和环氧树脂构成。<br><font color=pink size=3>两层均是由缠绕工艺制作而成，通过对环氧树脂加热固化，以保证气瓶强度。</font></font></p>
@@ -44,6 +39,26 @@
 <p>$$<br>T_c=\frac{pR}{2\sigma_f}(2-\frac{1}{k}tan^2\alpha)<br>$$</p>
 <p><font size=2>式中 p———爆破压力，MPa;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<br> R———筒身段半径，mm;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<br> σf———纤维发挥强度，MPa;<br> k———应力平衡系数;<br> α———螺旋缠绕平均角度。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<br>上式中，当 k =1 时，就成为传统筒体均衡条件网格理论; 当 k ＜1 时，该网格理论就同时兼顾了筒体和封头，这已成为缠绕气瓶设计的通行理论。</font></p>
 <h3 id="复合材料层设计："><a href="#复合材料层设计：" class="headerlink" title="复合材料层设计："></a>复合材料层设计：</h3><p>　　<font size=2>丰田汽车公司通过改进内胆结构设计提高纤维强度的发挥率。为了能够稳定爆破压力，需要对封头到筒身的过渡位置进行增强，通常的做法见图 12，即采用高角度螺旋缠绕，但是通过研究发现，高角度螺旋缠绕不能很好地起到减轻重量的作用。为此，设计人员改变复合材料设计方案，<font color=pink size=3>由原先的环向 － 螺旋向交替的铺层方案变为环向集中缠绕</font>(<a href="https://wenku.baidu.com/view/62d42a33b94ae45c3b3567ec102de2bd9705de71.html">缠绕工艺P10</a>)，即将环向缠绕集中在复合材料层内侧( 见图 12) ，并同时对内胆赤道位置进行非连续处理，使整体复合材料用量较传统设计降低 25%。</font><br>　　<img src="/img/2021102202.png"></p>
+<hr>
+<h3 id="今日总结："><a href="#今日总结：" class="headerlink" title="今日总结："></a>今日总结：</h3><p>缠绕结构优化类似于缠绕工艺的环向、纵向、螺旋缠绕方法？</p>
 <h4 id="英文缩写：氢燃料电池汽车（FCV）"><a href="#英文缩写：氢燃料电池汽车（FCV）" class="headerlink" title="英文缩写：氢燃料电池汽车（FCV）"></a>英文缩写：氢燃料电池汽车（FCV）</h4><h4 id="关键词：缠绕成型"><a href="#关键词：缠绕成型" class="headerlink" title="关键词：缠绕成型"></a>关键词：缠绕成型</h4>]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/10/18/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
 </search>
